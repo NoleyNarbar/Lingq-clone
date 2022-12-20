@@ -1,0 +1,11 @@
+.card {
+  background-color: white;
+  color: darkslategrey;
+}
+
+.button {
+  padding: 10px;
+  background-color: lightblue;
+  display: block;
+  margin: 0px 20px 15px;
+}
